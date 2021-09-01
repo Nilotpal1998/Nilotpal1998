@@ -1,4 +1,6 @@
--<h1 align="center">Hi 👋, I'm Nilotpal Sarkar</h1>
+[![MasterHead](https://github.com/Nilotpal1998/Nilotpal.github.io/blob/main/unnamed.jpg)](https://Nilotpal1998.github.io)
+<img align="right" alt="Coding" width="400" src="https://github.com/Nilotpal1998/Nilotpal.github.io/blob/main/DSCN4456.JPG">
+<h1 align="center">Hi 👋, I'm Nilotpal Sarkar</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilotpal1998&label=Profile%20views&color=0e75b6&style=flat" alt="nilotpal1998" /> </p>
@@ -21,7 +23,7 @@
 
 - 📄 Know about my experiences [Summer Internship at IACS on NLP domain , Recommendation System Building](Summer Internship at IACS on NLP domain , Recommendation System Building)
 
-
+<img align="right" alt="Coding" width="400" src="https://github.com/Nilotpal1998/Nilotpal.github.io/blob/main/image.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
