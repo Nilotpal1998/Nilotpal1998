@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Summer Internship at IACS on NLP domain , Recommendation System Building](Summer Internship at IACS on NLP domain , Recommendation System Building)
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/10836334-21st-century">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
